@@ -36,4 +36,4 @@ A web-based Sudoku solver game built using HTML, CSS, and JavaScript. This proje
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sudoku-solver-game.git
+   [git clone https://github.com/yourusername/sudoku-solver-game.git](https://github.com/Harshita781/Sudoku-Solver-Game.git)
