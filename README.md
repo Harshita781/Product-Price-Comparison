@@ -46,5 +46,9 @@ A web-based Sudoku solver game built using HTML, CSS, and JavaScript. This proje
    
 ### Screenshot
 
-### Live Demo 
-![image](https://github.com/Harshita781/Sudoku-Solver-Game/assets/88783265/a4189f68-05b0-4485-9fb4-65640ecc0040)
+![Screenshot (86)](https://github.com/Harshita781/Sudoku-Solver-Game/assets/88783265/359dbcc7-fe32-4ed1-821c-2c34e76bc62b)
+
+### Live Demo
+
+https://667d1813f102c18738c4e067--sudoku-solver-by-harshita.netlify.app/
+
